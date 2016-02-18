@@ -1,0 +1,33 @@
+\documentclass[a4paper,12pt, spanish, twocolumn]{article}
+
+% Para trabajar en idioma español
+\usepackage[T1]{fontenc}
+\usepackage{selinput}
+\usepackage{babel}
+\SelectInputMappings{%
+  aacute={á},
+  ntilde={ñ},
+  Euro={€}
+}
+%%%%%%%%%%%%
+\usepackage{blindtext} %libreria que nos permite generar texto "tonto"
+
+\begin{document}
+	\title{Ejemplo 6}
+	\author{Nombre del autor}
+	\date{Febrero 14, 2015}
+	\maketitle
+	\begin{abstract}
+	\blindtext
+	\end{abstract}
+	\section{Primera sección}
+	\blindtext
+	\begin{quote}
+		\blindtext
+	\end{quote}
+
+	\section{Segunda sección}
+		\blindtext[1]
+		\subsection{Esta es una subsección}
+			\blindtext[5]
+\end{document}
