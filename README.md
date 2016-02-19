@@ -18,5 +18,10 @@ Todos los contenidos en estas diapositivas son de libre acceso, modificacion y r
 se haga referencia a sus creadores originales.
 
 Acerca de ResBaz: https://feb2016.resbaz.com/
+
 Acerca de ResBaz en Ecuador: https://feb2016.resbaz.com/guayaquil-es
+
 Acerca de EREN (Red de Ecuatorianos investigadores y emprendedores): http://es.erenetwork.org/ 
+
+This *ResBaz* repo is in Spanish because it is the main language of Ecuador. For information about ResBaz in 
+English, please visit https://feb2016.resbaz.com/
