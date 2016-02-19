@@ -1,4 +1,4 @@
-#ResBaz Ecuador
+#ResBaz Ecuador 2016
 
 Este es el repositorio donde encontraran todo el material usado para los talleres *ResBaz* impartidos por *EREN (Ecuadorian Research & Entrepreneurship Network)* en 
 *Guayaquil - Ecuador* los dias *13 y 14 de Febrero del 2016* en la *Universidad Catolica de Santiago de Guayaquil (UCSG)*
@@ -24,4 +24,4 @@ Acerca de ResBaz en Ecuador: https://feb2016.resbaz.com/guayaquil-es
 Acerca de EREN (Red de Ecuatorianos investigadores y emprendedores): http://es.erenetwork.org/ 
 
 This *ResBaz* repo is in Spanish because it is the main language of Ecuador. For information about ResBaz in 
-English, please visit https://feb2016.resbaz.com/
+English, please visit https://resbaz.edu.au
